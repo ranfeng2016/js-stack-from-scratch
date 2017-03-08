@@ -1,9 +1,9 @@
-# JavaScript Stack from Scratch
+# 从零开始构建 JavaScript 技术栈
 
-[![Build Status](https://travis-ci.org/verekia/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/verekia/js-stack-from-scratch)
-[![Release](https://img.shields.io/github/release/verekia/js-stack-from-scratch.svg?style=flat-square)](https://github.com/verekia/js-stack-from-scratch/releases)
-[![Dependencies](https://img.shields.io/david/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate)
-[![Dev Dependencies](https://img.shields.io/david/dev/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/verekia/js-stack-boilerplate?type=dev)
+[![Build Status](https://api.travis-ci.org/jschyz/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/jschyz/js-stack-from-scratch)
+[![Release](https://img.shields.io/github/release/verekia/js-stack-from-scratch.svg?style=flat-square)](https://github.com/jschyz/js-stack-from-scratch/releases)
+[![Dependencies](https://img.shields.io/david/jschyz/js-stack-from-scratch.svg?style=flat-square)](https://david-dm.org/jschyz/js-stack-from-scratch)
+[![Dev Dependencies](https://img.shields.io/david/dev/verekia/js-stack-boilerplate.svg?style=flat-square)](https://david-dm.org/jschyz/js-stack-from-scratch?type=dev)
 [![Gitter](https://img.shields.io/gitter/room/js-stack-from-scratch/Lobby.svg?style=flat-square)](https://gitter.im/js-stack-from-scratch/)
 
 [![React](/img/react-padded-90.png)](https://facebook.github.io/react/)
@@ -16,9 +16,9 @@
 [![Webpack](/img/webpack-padded-90.png)](https://webpack.github.io/)
 [![Bootstrap](/img/bootstrap-padded-90.png)](http://getbootstrap.com/)
 
-Welcome to my modern JavaScript stack tutorial: **JavaScript Stack from Scratch**.
+欢迎阅读我的 JavaScript 教程：**从零开始构建 JavaScript 技术栈**.
 
-> 🎉 **This is the V2 of the tutorial, major changes happened since the 2016 release. Check the [Change Log](/CHANGELOG.md)!**
+> 🎉 **这是自2016年以来更新的第二版，请看[更新日志](/CHANGELOG.md)!**
 
 This is a straight-to-the-point guide to assembling a JavaScript stack. It requires some general programming knowledge, and JavaScript basics. **It focuses on wiring tools together** and giving you the **simplest possible example** for each tool. You can see this tutorial as *a way to write your own boilerplate from scratch*. Since the goal of this tutorial is to assemble various tools, I do not go into details about how these tools work individually. Refer to their documentation or find other tutorials if you want to acquire deeper knowledge in them.
 
